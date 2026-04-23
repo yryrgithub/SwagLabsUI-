@@ -1,0 +1,14 @@
+{
+  "0": {
+    "pass": true,
+    "thought": "根据截图，页面顶部中央清晰地显示了“Swag Labs”的标题。因此，陈述“结果显示Swag Labs”是正确的。"
+  },
+  "1": {
+    "pass": true,
+    "thought": "根据截图，页面右上角的购物车图标上有一个红色的圆形徽章，里面显示的数字是“3”。因此，陈述“结果显示购物车上方的数字为 3”是正确的。"
+  },
+  "2": {
+    "pass": true,
+    "thought": "根据截图，我可以看到购物车页面（Your Cart）中列出了三个商品：Sauce Labs Backpack、Sauce Labs Bike Light 和 Sauce Labs Bolt T-Shirt。因此，陈述“结果显示购物车列表中有3个商品”是正确的。"
+  }
+}

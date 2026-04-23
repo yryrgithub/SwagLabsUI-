@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "total": 1,
+    "successful": 1,
+    "failed": 0,
+    "partialFailed": 0,
+    "notExecuted": 0,
+    "totalDuration": 87214,
+    "generatedAt": "2026/4/23 11:26:06"
+  },
+  "results": [
+    {
+      "script": "..\\..\\test_login.yaml",
+      "success": true,
+      "resultType": "success",
+      "output": "./test_login-1776914678961.json",
+      "report": "..\\report\\test_login.html",
+      "duration": 87214
+    }
+  ]
+}

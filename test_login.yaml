@@ -1,0 +1,41 @@
+web:
+  url: https://www.saucedemo.com/
+  head: true
+  launchOptions:
+    channel: "chrome"
+    headless: false
+
+tasks:
+  - name: 输入用户名
+    flow:
+      - ai: 输入用户名:standard_user
+      - sleep: 30
+  - name: 输入密码
+    flow:
+      - ai: 输入密码:secret_sauce
+      - sleep: 30
+  - name: 点击登录按钮
+    flow:
+      - ai: 点击登录按钮
+      - sleep: 30
+  - name: 结果检测
+    flow:
+      - aiAssert: 结果显示Swag Labs
+      - sleep: 30
+  - name: 添加Products列表中前3个产品至购物车
+    flow:
+      - ai: 点击Products列表中前3个Add to cart按钮
+      - sleep: 30
+  - name: 结果检测
+    flow:
+      - aiAssert: 结果显示购物车上方的数字为3
+      - sleep: 30
+
+  - name: 查看购物车商品
+    flow:
+      - ai: 点击购物车按钮
+      - sleep: 30
+  - name: 结果检测
+    flow:
+      - aiAssert: 结果显示购物车列表中有3个商品
+      - sleep: 30

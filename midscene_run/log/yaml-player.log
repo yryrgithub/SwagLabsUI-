@@ -1,0 +1,131 @@
+[2026-04-22T14:28:20.544+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776839300544.json
+[2026-04-22T14:28:27.278+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:29:47.403+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776839387403.json
+[2026-04-22T14:29:50.803+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:33:07.117+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776839587117.json
+[2026-04-22T14:33:11.350+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:34:27.770+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776839667769.json
+[2026-04-22T14:34:31.525+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:34:58.934+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:35:01.943+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:37:31.150+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776839851149.json
+[2026-04-22T14:37:36.667+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:37:55.176+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:37:58.191+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:39:17.725+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776839957724.json
+[2026-04-22T14:39:21.268+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:39:44.580+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:39:47.591+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:45:42.582+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776840342582.json
+[2026-04-22T14:45:45.682+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:46:08.460+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:46:11.468+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:48:25.793+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776840505793.json
+[2026-04-22T14:48:28.852+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:48:56.793+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:51:57.748+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776840717748.json
+[2026-04-22T14:52:00.865+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:52:26.529+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:52:29.534+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:52:33.830+08:00] playing step 0, flowItem={"ai":"点击搜索到的第一条天气信息"}
+[2026-04-22T14:52:44.709+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:52:47.724+08:00] playing step 0, flowItem={"aiAssert":"结果中显示了未央区的天气信息"}
+[2026-04-22T14:54:28.994+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776840868994.json
+[2026-04-22T14:54:32.044+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:54:53.465+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:54:56.478+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:54:59.905+08:00] playing step 0, flowItem={"ai":"点击搜索到的第一条天气信息"}
+[2026-04-22T14:55:10.522+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:55:13.525+08:00] playing step 0, flowItem={"aiAssert":"结果中显示陕西西安主城区的天气信息"}
+[2026-04-22T14:55:41.616+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776840941616.json
+[2026-04-22T14:55:44.907+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T14:56:06.598+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:56:09.606+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T14:56:14.184+08:00] playing step 0, flowItem={"ai":"点击搜索到的第一条天气信息"}
+[2026-04-22T14:56:25.805+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T14:56:28.806+08:00] playing step 0, flowItem={"aiAssert":"结果中显示陕西西安主城区的天气信息"}
+[2026-04-22T15:00:42.905+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776841242905.json
+[2026-04-22T15:00:46.066+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T15:01:12.312+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:01:15.314+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T15:01:19.538+08:00] playing step 0, flowItem={"ai":"点击搜索到的第一条天气信息"}
+[2026-04-22T15:01:31.229+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:01:34.229+08:00] playing step 0, flowItem={"aiAssert":"结果中显示陕西西安主城区的天气信息"}
+[2026-04-22T15:01:36.651+08:00] playing step 0, flowItem={"ai":"将搜索的当天的最高温度和最低温度打印出来"}
+[2026-04-22T15:01:40.820+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:21:51.389+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776842511388.json
+[2026-04-22T15:21:54.617+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T15:22:19.439+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:22:22.446+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T15:22:27.604+08:00] playing step 0, flowItem={"ai":"点击搜索到的第一条天气信息"}
+[2026-04-22T15:22:41.735+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:22:44.746+08:00] playing step 0, flowItem={"aiAssert":"结果中显示陕西西安主城区的天气信息"}
+[2026-04-22T15:22:48.024+08:00] playing step 0, flowItem={"ai":"将搜索的当天的最高温度和最低温度打印出来"}
+[2026-04-22T15:22:51.984+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:22:54.994+08:00] playing step 0, flowItem={"aiAssert":"结果中显示天气最高温度18°，最低温度9°"}
+[2026-04-22T15:24:01.834+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776842641834.json
+[2026-04-22T15:24:04.942+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T15:24:26.735+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:24:29.749+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T15:30:36.362+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_search-1776843036362.json
+[2026-04-22T15:30:41.302+08:00] playing step 0, flowItem={"ai":"搜索 \"今日天气\""}
+[2026-04-22T15:31:06.580+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:31:09.588+08:00] playing step 0, flowItem={"aiAssert":"结果中展示了天气信息"}
+[2026-04-22T15:31:17.067+08:00] playing step 0, flowItem={"ai":"点击搜索到的第一条天气信息"}
+[2026-04-22T15:31:31.937+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:31:34.943+08:00] playing step 0, flowItem={"aiAssert":"结果中显示陕西西安主城区的天气信息"}
+[2026-04-22T15:31:38.502+08:00] playing step 0, flowItem={"ai":"将搜索的当天的最高温度和最低温度打印出来"}
+[2026-04-22T15:31:43.563+08:00] playing step 1, flowItem={"sleep":3000}
+[2026-04-22T15:31:46.565+08:00] playing step 0, flowItem={"aiAssert":"结果中显示天气最高温度18°，最低温度9°"}
+[2026-04-22T15:46:39.051+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_login-1776843999051.json
+[2026-04-22T15:46:43.725+08:00] playing step 0, flowItem={"ai":"输入用户名standard_user"}
+[2026-04-22T15:47:00.383+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:47:00.684+08:00] playing step 0, flowItem={"ai":"输入用户名secret_sauce"}
+[2026-04-22T15:47:11.764+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:47:12.072+08:00] playing step 0, flowItem={"ai":"点击登录按钮"}
+[2026-04-22T15:47:21.596+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:47:21.910+08:00] playing step 0, flowItem={"aiAssert":"结果显示Swag Labs"}
+[2026-04-22T15:47:24.442+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:48:11.044+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_login-1776844091043.json
+[2026-04-22T15:48:16.510+08:00] playing step 0, flowItem={"ai":"输入用户名:standard_user"}
+[2026-04-22T15:48:31.741+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:48:32.048+08:00] playing step 0, flowItem={"ai":"输入密码:secret_sauce"}
+[2026-04-22T15:48:46.117+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:48:46.425+08:00] playing step 0, flowItem={"ai":"点击登录按钮"}
+[2026-04-22T15:48:58.614+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-22T15:48:58.924+08:00] playing step 0, flowItem={"aiAssert":"结果显示Swag Labs"}
+[2026-04-22T15:49:02.549+08:00] playing step 1, flowItem={"sleep":300}
+[2026-04-23T11:22:47.954+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_login-1776914567953.json
+[2026-04-23T11:22:52.641+08:00] playing step 0, flowItem={"ai":"输入用户名:standard_user"}
+[2026-04-23T11:23:09.971+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:23:10.004+08:00] playing step 0, flowItem={"ai":"输入密码:secret_sauce"}
+[2026-04-23T11:23:22.217+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:23:22.249+08:00] playing step 0, flowItem={"ai":"点击登录按钮"}
+[2026-04-23T11:23:32.071+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:23:32.107+08:00] playing step 0, flowItem={"aiAssert":"结果显示Swag Labs"}
+[2026-04-23T11:23:34.492+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:23:34.529+08:00] playing step 0, flowItem={"ai":"点击Products列表中前3个Add to cart按钮"}
+[2026-04-23T11:23:54.903+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:23:54.941+08:00] playing step 0, flowItem={"aiAssert":"结果显示购物车上方的数字为3"}
+[2026-04-23T11:23:57.302+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:23:57.339+08:00] playing step 0, flowItem={"ai":"点击购物车按钮"}
+[2026-04-23T11:24:05.081+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:24:05.124+08:00] playing step 0, flowItem={"aiAssert":"结果显示购物车列表中有3个商品"}
+[2026-04-23T11:24:07.849+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:24:38.962+08:00] setting output by script path C:\YR\SeleniumTest\midscene_run\output\test_login-1776914678961.json
+[2026-04-23T11:24:43.001+08:00] playing step 0, flowItem={"ai":"输入用户名:standard_user"}
+[2026-04-23T11:25:00.341+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:25:00.380+08:00] playing step 0, flowItem={"ai":"输入密码:secret_sauce"}
+[2026-04-23T11:25:15.027+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:25:15.061+08:00] playing step 0, flowItem={"ai":"点击登录按钮"}
+[2026-04-23T11:25:23.643+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:25:23.682+08:00] playing step 0, flowItem={"aiAssert":"结果显示Swag Labs"}
+[2026-04-23T11:25:26.095+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:25:26.138+08:00] playing step 0, flowItem={"ai":"点击Products列表中前3个Add to cart按钮"}
+[2026-04-23T11:25:52.586+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:25:52.625+08:00] playing step 0, flowItem={"aiAssert":"结果显示购物车上方的数字为3"}
+[2026-04-23T11:25:55.232+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:25:55.270+08:00] playing step 0, flowItem={"ai":"点击购物车按钮"}
+[2026-04-23T11:26:03.186+08:00] playing step 1, flowItem={"sleep":30}
+[2026-04-23T11:26:03.218+08:00] playing step 0, flowItem={"aiAssert":"结果显示购物车列表中有3个商品"}
+[2026-04-23T11:26:06.129+08:00] playing step 1, flowItem={"sleep":30}

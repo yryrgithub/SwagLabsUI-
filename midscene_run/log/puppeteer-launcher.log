@@ -1,0 +1,252 @@
+[2026-04-22T14:28:20.547+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:28:22.138+08:00] goto https://www.bing.com
+[2026-04-22T14:28:25.262+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:29:47.406+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:29:48.011+08:00] goto https://www.bing.com
+[2026-04-22T14:29:48.795+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:33:07.119+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:33:07.629+08:00] goto https://www.bing.com
+[2026-04-22T14:33:09.338+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:34:27.772+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:34:28.295+08:00] goto https://www.bing.com
+[2026-04-22T14:34:29.519+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:37:31.152+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:37:31.667+08:00] goto https://www.bing.com
+[2026-04-22T14:37:34.651+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:39:17.727+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:39:18.295+08:00] goto https://www.bing.com
+[2026-04-22T14:39:19.263+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:45:42.584+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:45:43.138+08:00] goto https://www.bing.com
+[2026-04-22T14:45:43.676+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:48:25.795+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:48:26.300+08:00] goto https://www.bing.com
+[2026-04-22T14:48:26.841+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:51:57.751+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:51:58.279+08:00] goto https://www.bing.com
+[2026-04-22T14:51:58.857+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:54:28.996+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:54:29.512+08:00] goto https://www.bing.com
+[2026-04-22T14:54:30.029+08:00] waitForNetworkIdle 2000
+[2026-04-22T14:55:41.618+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T14:55:42.094+08:00] goto https://www.bing.com
+[2026-04-22T14:55:42.896+08:00] waitForNetworkIdle 2000
+[2026-04-22T15:00:42.908+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T15:00:43.404+08:00] goto https://www.bing.com
+[2026-04-22T15:00:44.050+08:00] waitForNetworkIdle 2000
+[2026-04-22T15:21:51.391+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T15:21:51.945+08:00] goto https://www.bing.com
+[2026-04-22T15:21:52.601+08:00] waitForNetworkIdle 2000
+[2026-04-22T15:24:01.837+08:00] launching browser with viewport, headed false viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"'
+] preference {
+  headed: false,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T15:24:02.373+08:00] goto https://www.bing.com
+[2026-04-22T15:24:02.933+08:00] waitForNetworkIdle 2000
+[2026-04-22T15:30:36.365+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  reportFileName: 'test_search',
+  cache: undefined
+}
+[2026-04-22T15:30:37.467+08:00] goto https://www.bing.com
+[2026-04-22T15:30:39.291+08:00] waitForNetworkIdle 2000
+[2026-04-22T15:46:39.056+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  reportFileName: 'test_login',
+  cache: undefined
+}
+[2026-04-22T15:46:40.153+08:00] goto https://www.saucedemo.com/
+[2026-04-22T15:46:41.709+08:00] waitForNetworkIdle 2000
+[2026-04-22T15:48:11.049+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  reportFileName: 'test_login',
+  cache: undefined
+}
+[2026-04-22T15:48:12.006+08:00] goto https://www.saucedemo.com/
+[2026-04-22T15:48:14.621+08:00] waitForNetworkIdle 2000
+[2026-04-23T11:22:47.956+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  reportFileName: 'test_login',
+  cache: undefined
+}
+[2026-04-23T11:22:49.599+08:00] goto https://www.saucedemo.com/
+[2026-04-23T11:22:50.627+08:00] waitForNetworkIdle 2000
+[2026-04-23T11:24:38.964+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 0 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  reportFileName: 'test_login',
+  cache: undefined
+}
+[2026-04-23T11:24:39.617+08:00] goto https://www.saucedemo.com/
+[2026-04-23T11:24:40.993+08:00] waitForNetworkIdle 2000

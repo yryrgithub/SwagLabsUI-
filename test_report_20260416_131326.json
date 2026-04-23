@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-04-16T13:13:26.515032",
+  "total_tests": 4,
+  "passed": 0,
+  "failed": 0,
+  "errors": 4,
+  "results": [
+    {
+      "scenario": "正常登录",
+      "username": "admin",
+      "expected": "成功登录并跳转首页",
+      "status": "ERROR",
+      "error": "'ChatOpenAI' object has no attribute 'provider'"
+    },
+    {
+      "scenario": "错误密码",
+      "username": "admin",
+      "expected": "显示密码错误提示",
+      "status": "ERROR",
+      "error": "'ChatOpenAI' object has no attribute 'provider'"
+    },
+    {
+      "scenario": "空用户名",
+      "username": "",
+      "expected": "提示账号不能为空",
+      "status": "ERROR",
+      "error": "'ChatOpenAI' object has no attribute 'provider'"
+    },
+    {
+      "scenario": "空密码",
+      "username": "admin",
+      "expected": "提示密码不能为空",
+      "status": "ERROR",
+      "error": "'ChatOpenAI' object has no attribute 'provider'"
+    }
+  ]
+}

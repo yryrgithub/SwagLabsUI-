@@ -1,0 +1,32 @@
+# 测试场景: 在Bing上搜索天气并验证结果
+web:                           # 1. 指定测试环境为Web
+  url: https://www.bing.com    # 2. 起始URL
+  headed: true                     # 显示浏览器窗口
+  launchOptions:
+    channel: "chrome"              # 使用系统安装的谷歌浏览器
+    headless: false                # 可选，确保非无头模式
+
+tasks:                         # 3. 定义具体任务列表
+  - name: 搜索天气              # 4. 任务1: 搜索
+    flow:
+      - ai: 搜索 "今日天气"     # 自然语言操作
+      - sleep: 3000            # 等待3秒
+  - name: 检查结果              # 5. 任务2: 断言
+    flow:
+      - aiAssert: 结果中展示了天气信息
+
+  - name: 查看搜索到的第一条天气信息
+    flow:
+      - ai: 点击搜索到的第一条天气信息
+      - sleep: 3000
+  - name: 检查结果
+    flow:
+      - aiAssert: 结果中显示陕西西安主城区的天气信息
+
+  - name: 打印搜索的当天的最高温度和最低温度
+    flow:
+      - ai: 将搜索的当天的最高温度和最低温度打印出来
+      - sleep: 3000
+  - name: 检查结果
+    flow:
+      - aiAssert: 结果中显示天气最高温度18°，最低温度9°
