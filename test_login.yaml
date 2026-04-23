@@ -39,3 +39,12 @@ tasks:
     flow:
       - aiAssert: 结果显示购物车列表中有3个商品
       - sleep: 30
+
+  - name: 删除购物车商品
+    flow:
+      - ai: 点击Remove按钮
+      - sleep: 30
+  - name: 结果检测
+    flow:
+      - aiAssert: 结果显示购物车列表中有2个商品
+      - sleep: 30
