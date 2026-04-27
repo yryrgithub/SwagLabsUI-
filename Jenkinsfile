@@ -32,7 +32,7 @@ pipeline {
                     alwaysLinkToLastBuild: false,
                     keepAll: true,
                     reportDir: 'midscene_run/report', // Midscene 默认报告目录
-                    reportFiles: 'index.html',        // 默认报告文件名
+                    reportFiles: 'test_login.html',        // 默认报告文件名
                     reportName: 'Midscene Test Report'
                 ]
             )
