@@ -1,3 +1,12 @@
+midscene:
+  # 设置浏览器启动选项
+  chromeOptions:
+    # 添加关键的启动参数
+    args:
+      - --no-sandbox           # 关键：禁用沙箱模式，解决多数权限和库加载问题
+      - --disable-setuid-sandbox # 配合--no-sandbox使用
+      - --disable-dev-shm-usage # 关键：解决容器内共享内存空间不足的问题
+
 web:
   url: https://www.saucedemo.com/
   head: true
