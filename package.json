@@ -1,3 +1,0 @@
-cd C:/YR/SeleniumTest
-npm init -y
-npm install --save-dev @midscene/cli
