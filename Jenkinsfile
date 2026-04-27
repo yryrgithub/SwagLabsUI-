@@ -37,7 +37,7 @@ pipeline {
         stage('Run Tests') {
             steps {
                 // 使用 npx 运行项目本地安装的 midscene 命令
-                sh 'npx midscene ./SeleniumTest/test_login.yaml'
+                sh 'npx midscene ./test_login.yaml'
             }
         }
     }
