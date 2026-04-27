@@ -18,7 +18,7 @@ pipeline {
         stage('Run Tests') {
             steps {
                 // 👇 执行的命令请替换为你项目中实际的测试命令
-                sh 'npx midscene ./SeleniumTest/ttt.py'
+                sh 'npx midscene ./SeleniumTest/test_login.yaml'
                 // 或使用其他方式生成报告，确保报告被输出到了指定路径
             }
         }
